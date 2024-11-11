@@ -1,0 +1,51 @@
+baseURL: https://cocolotravel.com/
+title: Cocolo Travel 
+
+theme: 
+  - hextra-cocolo
+  - hextra
+
+menu:
+  main:
+    - name: Documentation
+      pageRef: /docs
+      weight: 3
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: Tours
+      pageRef: /tours
+      weight: 1
+    - name: Search
+      params:
+        type: search
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: cocolologo.svg
+      dark: cocolologo.svg
+      link: /
+      width: 40
+      height: 20
+  theme:
+    # light | dark | system
+    default: light 
+    displayToggle: false
+
+defaultcontentlanguage: en
+languages:  
+  en:    
+    contentDir: content/english
+    languageName: English    
+    weight: 1  
+  fr:    
+    contentDir: content/french
+    languageName: Français    
+    weight: 2  
+  ja:    
+    contentDir: content/japanese
+    languageName: 日本語
+    weight: 3

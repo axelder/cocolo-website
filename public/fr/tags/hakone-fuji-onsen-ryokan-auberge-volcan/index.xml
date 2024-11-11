@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cocolo Travel – Hakone, Fuji, Onsen, Ryokan, Auberge, Volcan</title>
+    <link>http://localhost:1313/fr/tags/hakone-fuji-onsen-ryokan-auberge-volcan/</link>
+    <description>Recent content in Hakone, Fuji, Onsen, Ryokan, Auberge, Volcan on Cocolo Travel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	  <atom:link href="http://localhost:1313/fr/tags/hakone-fuji-onsen-ryokan-auberge-volcan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
