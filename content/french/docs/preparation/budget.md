@@ -1,11 +1,5 @@
 ---
 title: Argent
-description: 
-published: true
-date: 2024-06-06T05:50:12.186Z
-tags: 
-editor: markdown
-dateCreated: 2024-01-18T01:23:58.936Z
 ---
 
 ## Les retraits

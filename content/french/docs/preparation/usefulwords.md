@@ -1,11 +1,5 @@
 ---
 title: Mots Utiles
-description: 
-published: true
-date: 2024-01-18T01:49:13.955Z
-tags: 
-editor: markdown
-dateCreated: 2024-01-18T01:49:13.955Z
 ---
 
 ## Les mots du quotidien
