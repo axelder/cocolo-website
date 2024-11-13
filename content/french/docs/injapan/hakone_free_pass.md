@@ -1,11 +1,5 @@
 ---
 title: Hakone Free Pass
-description: 
-published: true
-date: 2024-03-20T07:08:50.681Z
-tags: 
-editor: markdown
-dateCreated: 2024-01-18T01:48:01.671Z
 ---
 
 [Brochure touristique (anglais).](https://cocolo-brochures.ap-south-1.linodeobjects.com/hakone_1.pdf)

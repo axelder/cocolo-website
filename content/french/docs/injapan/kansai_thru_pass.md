@@ -1,11 +1,5 @@
 ---
 title: Kansai Thru Pass
-description: Tout ce qu'il faut savoir sur le pass de transport de la région du Kansai
-published: true
-date: 2024-03-16T07:20:15.893Z
-tags: pass, transport, métro, kyoto, osaka, nara, koyasan
-editor: markdown
-dateCreated: 2024-03-16T07:20:15.893Z
 ---
 
 # Le Kansai Thru pass

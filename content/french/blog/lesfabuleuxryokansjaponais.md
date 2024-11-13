@@ -1,22 +1,16 @@
 ---
 title: Brouillon Loger dans un Ryokan ou un Minshuku 
-description: Découvrez les Ryokan et Minshuku
-published: true
-date: 2024-05-29T08:37:04.456Z
-tags: ryokan, onsen, minshuku, auberge
-editor: markdown
-dateCreated: 2024-05-23T02:25:31.000Z
 ---
 
 Les ryokan et minshuku sont deux hébergements traditionnels japonais que vous ne retrouverez nulle part ailleurs. Élements incontournables de la culture japonaise, ils sont un Must Have pour votre voyage au Japon.
 
 Laissez-vous guider à travers cet article pour découvrir comment ces établissements uniques enrichiront votre expérience de voyage.
 
-# Ryokan : l'hôtel traditionnel de luxe 
+## Ryokan : l'hôtel traditionnel de luxe 
 
 Le ryokan est un hébergement traditionnel japonais haut de gamme, ou vous pourrez déguster un repas de haute qualité et vous prélasser dans un onsen : un bain thermal japonais. 
 
-## Dormir dans une chambre traditionnelle  
+### Dormir dans une chambre traditionnelle  
 
 Portes coulissantes recouvertes de papier de riz, tatamis en paille de riz tressées, ossature en bois, la structure des ryokan est similaire à celle de la maison japonaise traditionnelle et est à l'opposée des vieilles bâtisses en pierre européennes. 
 
@@ -26,61 +20,61 @@ Bien sûr, pour ceux qui préfèreraient un lit plus traditionnel, de nombreux r
 
 ![ryokan-6.smalljpg.jpg](/blogpictures/ryokan-6.smalljpg.jpg)!
 
-## Les onsens 
+### Les onsens
 Le ryokan possède un onsen : une source thermale d'eau chaude naturelle. Son eau, riche en minéraux, aurait des vertus pour la peau ainsi que pour la santé. Les japonais en sont fous et voyagent exprès dans des lieux ou ils pourront s'y prélasser. Une expérience incroyble, tant sur l'aspect découverte que sur l'aspect culturel ! 
 
 Découvrez les 5 choses à ne surtout pas faire lorsque vous allez dans un onsen. 
 
-## Le repas 
+### Le repas
 
 Si vous séjournez dans un ryokan, nous vous conseillons une formule demi-pension qui incluera le petit-déjeuner ainsi que le repas du soir. En effet, dans ces établissements, le repas est un vrai festin et vous permet de découvrir plusieurs mets traditionnels japonais. 
 
 Sashimi, tempura, poisson en sauce, soupe miso, etc de quoi ravir vos papilles et votre estomac. 
 ![food-15_small.jpg](/blogpictures/food-15_small.jpg)
 
-# Minshuku : l'auberge traditionnelle 
+## Minshuku : l'auberge traditionnelle 
 
 Les minshuku sont des auberges tenues par des familles. Les espaces de vies sont souvent partagés : de quoi pouvoir faire de belles rencontres durant votre voyage. 
 
-## Vivre dans une maison traditionnelle
+### Vivre dans une maison traditionnelle
 
 Très abordables, les minshuku sont situés dans de grandes maisons japonaises traditionnelles, ou vous pourrez également dormir dans des futons et admirer les caractéristiques d'une maison traditionnelle japonaise. Ils ont l'avantage d'être accessibles pour tous les budgets. 
 
-## Découvrir la campagne japonaise 
+### Découvrir la campagne japonaise 
 La plupart des Minshuku sont situés à la campagne japonaise, ou nous vous conseillons fortement de voyager : vous pourrez ainsi faire d'une pierre deux coups, en découvrant deux facettes incontournables de la culture japonaise. 
 
 ![shirakawago-04small.jpg](/blogpictures/shirakawago-04small.jpg)
 
-## Manger un repas fait maison 
+### Manger un repas fait maison 
 Les minshuku sont principalement situés dans des lieux peu fréquentés : il est préférable de manger sur place le soir et le matin. Et il serait dommage de se passer de cette expérience ! 
 
 Les repas y sont confectionnés par les maitres des lieux et sont très peu couteux : l'occasion de vous remplir l'estomac tout en découvrant des plats faits maison. 
 Envie de loger dans un minshuku ? Découvrez nos destinations préférées à la campagne japonaise. 
 
-# Quelles différences entre minshuku et ryokan ? 
+## Quelles différences entre minshuku et ryokan ? 
 
 Vous l'aurez bien compris, il y a deux différences principales entre ryokan et minshuku : 
 - Le ryokan est un hôtel traditionnel de luxe, dans lequel vous trouverez des onsens 
 - Le Minshuku est l'équivalent d'une auberge de jeunesse : bon marché et convivial, il est présent dans les campagnes japonaises.  
 
-# Articles liés à écrire 
+## Articles liés à écrire 
 - Découvrez les 5 choses à ne surtout pas faire lorsque vous allez dans un onsen. 
 - Nos endroits préférés à la campagne
 
 
-# Découvrir les Ryokans Japonais : Une Plongée au Cœur de la Tradition et de l'Hospitalité
+## Découvrir les Ryokans Japonais : Une Plongée au Cœur de la Tradition et de l'Hospitalité
 Si vous souhaitez vivre une expérience authentique lors de votre voyage au Japon, séjourner dans un ryokan, une auberge traditionnelle, est une option incontournable. Ces établissements offrent bien plus qu'un simple hébergement : ils sont une fenêtre ouverte sur la culture japonaise, une immersion dans la vie locale, une dégustation de la cuisine régionale et une détente totale dans les bains thermaux.
 
-## Diversité des ryokans
+### Diversité des ryokans
 Le Japon regorge de ryokans, allant des modestes auberges familiales aux vastes complexes hôteliers. Chacun offre une expérience unique, avec des tarifs variant de manière significative. Vous pouvez trouver des ryokans modestes à partir de 4 000 yens par nuit, tandis que les établissements haut de gamme peuvent atteindre plus de 50 000 yens par personne, repas inclus.
 Un budget moyen tournera à environ 15 000 yens par personne et par nuit. 
 
-## Réserver son séjour
+### Réserver son séjour
 Réserver un ryokan est devenu très accessible grâce aux nombreux sites de réservation en ligne. Cependant, il est essentiel de noter que la plupart des ryokans facturent par personne plutôt que par chambre. De plus, certains établissements n'acceptent pas les voyageurs solitaires, donc il est préférable de vérifier avant de réserver.
 
 Si vous souhaitez de l'aide pour la réservation de votre ryokan, n'hésitez pas à nous contacter pour nous demander un devis : notre équipe peut prendre en charge la création complête de votre voyage pour vous faciliter la vie. 
 
-## Arrivée et installation
+### Arrivée et installation
 
 À votre arrivée dans un ryokan, vous serez accueilli avec chaleur et attention par les employés. Dans certains ryokans, vous aurez des interlocuteurs parlant anglais. 
 
@@ -88,7 +82,7 @@ Avant d'entrer dans l'établissement, il est de coutume de retirer ses chaussure
 
 Il est recommandé d'arriver aux alentours de 17h, car le diner est souvent servi assez tôt. Vous pourrez ainsi vous installer confortablement dans votre chambre, et, pourquoi pas, de profiter d'un bain avant le repas. 
 
-## Les chambres
+### Les chambres
 
 Les chambres des ryokans offrent un mélange de confort moderne et de tradition japonaise. Vous y trouverez des tatamis au sol, des futons pour dormir, ainsi que des yukatas (kimonos légers) pour vous vêtir pendant votre séjour. 
 
@@ -100,19 +94,19 @@ En fonction des endroits, ces bains peuvent être des onsens : des sources chaud
 Pour une expérience 100% traditionnelle et détente, nous vous conseillons de choisir un Ryokan possédant un onsen. Vous pourrez ainsi découvrir cette eau thermale et ses bienfaits pour la peau. 
 
 
-## Repas Traditionnels
+### Repas Traditionnels
 
 Les repas dans les ryokans sont une véritable célébration de la gastronomie japonaise. Les kaisekidori, des repas composés de plusieurs plats, mettent en valeur les saveurs et les ingrédients locaux et vous permettront de découvrir de nouvelles recettes japonaises. Les hôtes sont généralement invités à prendre leur repas en yukata, ajoutant ainsi une touche supplémentaire à l'expérience culturelle.
 
 Le petit déjeuner est très souvent un petit déjeuner traditionnel japonais : poissons, soupe miso, légummes etc sont au menu. Notre conseil : prévoir suffisament de temps pour manger tranquillement car les petits déjeuner sont souvent très copieux. 
 
-## Départ et Formalités
+### Départ et Formalités
 
 Le check-out dans les ryokans est généralement prévu vers 10 heures du matin. Bien que de nombreux établissements acceptent désormais les cartes de crédit, certains préfèrent encore les paiements en espèces. Il est donc recommandé de vérifier les modalités de paiement avant votre départ.
 
 
 
-## En résumé
+### En résumé
 
 Séjourner dans un ryokan offre une expérience unique et enrichissante, une plongée profonde dans la tradition et l'hospitalité japonaises. Que vous soyez un voyageur aguerri ou un novice, cette expérience mérite certainement d'être vécue au moins une fois dans une vie. Vous apprécierez également les bains chauds, qui viendront détendre vos muscles, souvent maltraités durant votre voyage. 
 

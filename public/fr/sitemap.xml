@@ -7,7 +7,6 @@
     <loc>http://localhost:1313/fr/docs/preparation/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/injapan/</loc>
-    <lastmod>2024-05-06T06:51:56+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/docs/cities/</loc>
     <lastmod>2024-07-16T07:19:50+00:00</lastmod>
@@ -38,14 +37,23 @@
     <loc>http://localhost:1313/fr/docs/cities/himeji/</loc>
     <lastmod>2024-07-16T07:19:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/blog/</loc>
-    <lastmod>2024-06-29T07:02:30+00:00</lastmod>
+    <loc>http://localhost:1313/fr/docs/cities/kyoto/</loc>
+    <lastmod>2024-05-01T03:11:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fr/tags/hiroshima-miyajima-okonomiyaki/</loc>
-    <lastmod>2024-06-29T07:02:30+00:00</lastmod>
+    <loc>http://localhost:1313/fr/blog/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/example/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/guide/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/markdown/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
-    <lastmod>2024-06-29T07:02:30+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,78 +71,29 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fr/blog/hiroshimameilleurevillejapon/</loc>
-    <lastmod>2024-06-29T07:02:30+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/blog/interviewclient/</loc>
-    <lastmod>2024-06-29T06:53:14+00:00</lastmod>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/blog/destinationsincontournablesvoyagejapon/</loc>
-    <lastmod>2024-06-21T03:52:40+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/blog/leschateauxjaponais/</loc>
-    <lastmod>2024-06-08T05:56:20+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/blog/onsenanepasfaire/</loc>
-    <lastmod>2024-05-31T05:06:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/onsen-ryokan-auberge-r%C3%A8gles/</loc>
-    <lastmod>2024-05-31T05:06:23+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/blog/minshuku/</loc>
-    <lastmod>2024-05-31T03:38:50+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/blog/lesfabuleuxryokansjaponais/</loc>
-    <lastmod>2024-05-29T08:37:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/ryokan-onsen-minshuku-auberge/</loc>
-    <lastmod>2024-05-29T08:37:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/blog/commenteviterlafoule/</loc>
-    <lastmod>2024-05-24T05:21:39+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/japon-voyage-foule-saison/</loc>
-    <lastmod>2024-05-24T05:21:39+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/laver-linge-laverie-v%C3%AAtement-v%C3%AAtements/</loc>
-    <lastmod>2024-05-06T06:51:56+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/docs/injapan/laveries/</loc>
-    <lastmod>2024-05-06T06:51:56+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/docs/cities/kyoto/</loc>
-    <lastmod>2024-05-01T03:11:07+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/docs/injapan/hakone_free_pass/</loc>
-    <lastmod>2024-03-20T07:08:50+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/docs/injapan/kansai_thru_pass/</loc>
-    <lastmod>2024-03-16T07:20:15+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/pass-transport-m%C3%A9tro-kyoto-osaka-nara-koyasan/</loc>
-    <lastmod>2024-03-16T07:20:15+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/docs/injapan/envois/</loc>
-    <lastmod>2024-02-27T07:02:51+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/activit%C3%A9/</loc>
-    <lastmod>2024-02-14T00:56:08+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/docs/injapan/activites/</loc>
-    <lastmod>2024-02-14T00:56:08+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/blog/restaurantsfrancais/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/blog/rainstokyo/</loc>
   </url><url>
-    <loc>http://localhost:1313/fr/blog/5filmspourmieuxcomprendrelaculturejaponaise/</loc>
+    <loc>http://localhost:1313/fr/blog/onsenanepasfaire/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/blog/top5wagashi/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/blog/platsjaponaisquetuneconnaispas/</loc>
   </url><url>
+    <loc>http://localhost:1313/fr/tags/activit%C3%A9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/docs/injapan/activites/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/tours/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/preparation/budget/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/lesfabuleuxryokansjaponais/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/categories/</loc>
     <xhtml:link
@@ -153,19 +112,23 @@
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/blog/commenteviterlafoule/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/blog/ryokan/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/preparation/documentation/</loc>
   </url><url>
+    <loc>http://localhost:1313/fr/docs/injapan/envois/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/docs/preparation/equipement/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/example/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/guide/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/cities/hakone/</loc>
   </url><url>
+    <loc>http://localhost:1313/fr/docs/injapan/hakone_free_pass/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/docs/injapan/haruka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/interviewclient/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/tours/first-tour/</loc>
   </url><url>
@@ -173,15 +136,23 @@
   </url><url>
     <loc>http://localhost:1313/fr/docs/cities/kamakura/</loc>
   </url><url>
+    <loc>http://localhost:1313/fr/docs/injapan/kansai_thru_pass/</loc>
+  </url><url>
     <loc>http://localhost:1313/fr/docs/preparation/weather/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/laver-linge-laverie-v%C3%AAtement-v%C3%AAtements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/minshuku/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/injapan/wifi/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/preparation/applications/</loc>
   </url><url>
-    <loc>http://localhost:1313/fr/blog/seasons/</loc>
+    <loc>http://localhost:1313/fr/blog/leschateauxjaponais/</loc>
   </url><url>
-    <loc>http://localhost:1313/fr/tags/markdown/</loc>
+    <loc>http://localhost:1313/fr/docs/injapan/laveries/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/blog/seasons/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/preparation/usefulwords/</loc>
   </url><url>
@@ -200,6 +171,8 @@
     <loc>http://localhost:1313/fr/docs/cities/nara/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/cities/osaka/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/pass-transport-m%C3%A9tro-kyoto-osaka-nara-koyasan/</loc>
   </url><url>
     <loc>http://localhost:1313/fr/docs/injapan/rapit/</loc>
   </url><url>

@@ -1,11 +1,5 @@
 ---
 title: Envois
-description: 
-published: true
-date: 2024-02-27T07:02:51.401Z
-tags: 
-editor: markdown
-dateCreated: 2024-01-18T01:43:36.610Z
 ---
 
 ## À retenir
@@ -17,14 +11,14 @@ dateCreated: 2024-01-18T01:43:36.610Z
 
 ## Attention
 
-- Le poid d'un bagage ne doit jamais dépasser 25 kg! 
+- Le poid d'un bagage ne doit jamais dépasser 25 kg!
 - Vérifiez toujours la date et le lieu prévus d'arrivée des bagages.
 - Il y a en général au moins 1 jour entre l'envoi et la réception des bagages. Il faut donc prévoir un sac à dos avec de quoi se changer et le strict nécessaire pour au moins 1 nuitée.
 - Chaque valise ou sac vaut à 1 unité donc groupez au maximum (pas de petit sac qui pendouille sur une plus grosse valise !).
 
 ## Le procédure
 
-Pour faire envoyer vos bagages rien de plus simple, il suffit d'utiliser les transporteurs nationaux (Takkyubin). 
+Pour faire envoyer vos bagages rien de plus simple, il suffit d'utiliser les transporteurs nationaux (Takkyubin).
 
 [https://www.global-yamato.com/en/hands-free-travel/scene02.html](https://www.global-yamato.com/en/hands-free-travel/scene02.html)
 
@@ -34,6 +28,6 @@ Lorsque vous faites le check out à l'hôtel vous informez le staff à la récep
 
 Les mesures des bagages sont prises à chaque envoi.
 
-Le prix de chaque envoi dépend de la distance, du poids et de la taille de votre bagage ainsi que du nombre de bagage. Comptez environ  2000 JPY (10 euros) par envoi et par bagage. Le staff s'occupera de prendre les meusures de votre bagage. 
+Le prix de chaque envoi dépend de la distance, du poids et de la taille de votre bagage ainsi que du nombre de bagage. Comptez environ  2000 JPY (10 euros) par envoi et par bagage. Le staff s'occupera de prendre les meusures de votre bagage.
 
 Une fois que vous avez envoyé votre bagage vous obtiendrez un reçu papier qu'il faudra conserver. Sur celui-ci vous verrez une série de 12 chiffres en haut à droite. C'est votre numéro de suivi. Pour suivre votre bagage entrez votre numéro de suivi sur le site ci-dessous [sur le site de tracking en cliquant sur ce lien](http://track.kuronekoyamato.co.jp/english/tracking).

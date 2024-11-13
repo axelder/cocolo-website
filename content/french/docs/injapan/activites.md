@@ -1,11 +1,5 @@
 ---
 title: Activités conseillées
-description: Voici une liste non exhaustive des activités que vous pourriez apprécier faire une fois sur place. 
-published: true
-date: 2024-02-14T00:56:08.692Z
-tags: activité
-editor: markdown
-dateCreated: 2024-02-06T04:29:43.854Z
 ---
 
 # Activités conseillées

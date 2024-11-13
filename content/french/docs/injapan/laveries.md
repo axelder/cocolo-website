@@ -1,11 +1,5 @@
 ---
 title: Les laveries
-description: Tout ce qu'il faut savoir pour laver votre linge
-published: true
-date: 2024-05-06T06:51:56.431Z
-tags: laver, linge, laverie, vêtement, vêtements
-editor: markdown
-dateCreated: 2024-05-02T03:55:19.516Z
 ---
 
 ## Les laveries dans l'hôtel
