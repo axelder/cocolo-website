@@ -1,5 +1,9 @@
 ---
 title: Brouillon Loger dans un Ryokan ou un Minshuku 
+cover: 
+    image: /images/ryokan7small.jpg
+    alt: japan culture
+    relative: true
 ---
 
 Les ryokan et minshuku sont deux hébergements traditionnels japonais que vous ne retrouverez nulle part ailleurs. Élements incontournables de la culture japonaise, ils sont un Must Have pour votre voyage au Japon.

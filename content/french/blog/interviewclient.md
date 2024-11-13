@@ -1,5 +1,9 @@
 ---
 title: Interview d'un voyageur solitaire au Japon
+cover: 
+    image: /images/ryokan-6.smalljpg.jpg
+    alt: japan culture
+    relative: true
 ---
 
 **DIDIER** vient de terminer un voyage en solitaire de deux semaines dans le Japon durant lequel il a visité, entre autres, Tokyo, Hakone, la Nakasendo, Takayama, Hiroshima et Kyoto. Il a accepté de répondre à quelques-unes de nos questions concernant son séjour afin de permettre à tous les futurs voyageurs de mieux appréhender leur voyage au pays du soleil levant.

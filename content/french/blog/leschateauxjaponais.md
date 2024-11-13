@@ -1,5 +1,9 @@
 ---
 title: Les châteaux japonais
+cover: 
+    image: /images/plum-1.jpg
+    alt: japan culture
+    relative: true
 ---
 
 Les châteaux japonais sont un élément essentiel de la culture japonaise : avec leur architecture totalement à l'opposée des châteaux européens, ils sont une trace du passé bélliqueux du Japon féodal et de ses samouraïs.

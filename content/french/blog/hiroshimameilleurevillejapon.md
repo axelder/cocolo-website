@@ -10,7 +10,7 @@ tags:
   - Example
   - Guide
 cover: 
-    image: images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
+    image: /images/hiroshimachateausmall.jpg
     alt: Hiroshima
     relative: true
 ---

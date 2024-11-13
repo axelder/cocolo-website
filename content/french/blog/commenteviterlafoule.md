@@ -1,5 +1,9 @@
 ---
 title: Comment éviter la foule lors de votre voyage au Japon
+cover: 
+    image: /images/osakacastlesmall.jpg
+    alt: japan culture
+    relative: true
 ---
 
 Le Japon est une destination très appréciée, et de ce fait, attire de nombreux touristes. S'il est impossible d'éviter totalement la foule, il est cependant possible, en suivant les conseils si-dessous, d'optimiser son circuit de façon a éviter les grosses périodes d'affluence.
