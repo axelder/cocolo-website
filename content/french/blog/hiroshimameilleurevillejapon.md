@@ -9,6 +9,10 @@ tags:
   - Markdown
   - Example
   - Guide
+cover: 
+    image: images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
+    alt: Hiroshima
+    relative: true
 ---
 
 Située à un peu moins de deux heures de Kyoto ou Osaka et à quatre heures de Tokyo, Hiroshima est une ville a ne surtout pas louper lors de votre voyage au Japon.
