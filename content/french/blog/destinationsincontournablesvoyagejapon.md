@@ -1,5 +1,9 @@
 ---
 title: 10 Destinations incontournables à visiter lors de votre voyage au Japon
+cover: 
+    image: /images/nakasendo-1small.jpg
+    alt: japan culture
+    relative: true
 ---
 
 Vous souhaitez visiter le Japon, mais ne savez pas encore où aller ? Voici un top 10 des destinations recommandées pour un premier voyage.

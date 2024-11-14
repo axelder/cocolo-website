@@ -1,5 +1,9 @@
 ---
 title: Le minshuku
+cover: 
+    image: /images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
+    alt: japan culture
+    relative: true
 ---
 
 Lors de la planification d'un voyage, il est fréquent de minimiser l'importance du logement. Pourtant, celui-ci peut-être l'occasion de vivre une expérience unique.

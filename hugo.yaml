@@ -1,4 +1,8 @@
+# For production
 baseURL: https://cocolotravel.com/
+
+# For development
+# baseURL: http://localhost:1313/
 title: Cocolo Travel 
 
 theme: 

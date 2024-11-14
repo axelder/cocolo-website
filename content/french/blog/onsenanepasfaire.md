@@ -1,5 +1,9 @@
 ---
 title: 5 erreurs que vous faites dans un onsen et qui sont malpolies
+cover: 
+    image: /images/transport-gros-bagage-shinkansen.jpg
+    alt: japan culture
+    relative: true
 ---
 
 Se baigner dans un onsen est une expérience incroyable et fortement recommandée lors de votre voyage au Japon.
