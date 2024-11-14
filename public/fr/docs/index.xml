@@ -1,88 +1,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cocolo Travel – Introduction</title>
-    <link>http://localhost:1313/fr/docs/</link>
+    <link>https://cocolotravel.com/fr/docs/</link>
     <description>Recent content in Introduction on Cocolo Travel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 16 Jul 2024 07:19:50 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://cocolotravel.com/fr/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
         
       
     
-    
-    <item>
-      <title>Carnet de route</title>
-      <link>http://localhost:1313/fr/docs/roadbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/fr/docs/roadbook/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Introduction taille image 930&lt;/h1&gt;&lt;h2&gt;Comment utiliser le carnet de voyage (vidéo)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;comment-utiliser-le-carnet-de-voyage-vidéo&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#comment-utiliser-le-carnet-de-voyage-vid%c3%a9o&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Cliquez sur l&amp;rsquo;image pour lancer la vidéo
-&lt;!-- raw HTML omitted --&gt;  ↓&lt;!-- raw HTML omitted --&gt;
-&lt;a href=&#34;https://youtu.be/U1K_RejLU0c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://localhost:1313/carnet_de_voyage.png&#34; alt=&#34;carnet_de_voyage.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Comment utiliser le carnet de voyage (texte)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;comment-utiliser-le-carnet-de-voyage-texte&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#comment-utiliser-le-carnet-de-voyage-texte&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Le carnet de voyage est divisé en quatres parties principales :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Les hôtels&lt;/li&gt;
-&lt;li&gt;Les services&lt;/li&gt;
-&lt;li&gt;Les transports&lt;/li&gt;
-&lt;li&gt;Les itinéraires conseillés durant vos journées&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Chaque partie contient un bouton &amp;ldquo;détails&amp;rdquo;. en cliquant dessus vous obtenez des informations importantes : attention à ne pas passer à côté !&lt;/p&gt;
-&lt;p&gt;Voyons tout cela plus en détails :&lt;/p&gt;
-&lt;h3&gt;Partie 1 : les hôtels&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;partie-1--les-hôtels&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#partie-1--les-h%c3%b4tels&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;En cliquant sur le bouton &amp;ldquo;1&amp;rdquo; : vous accéderez à notre site et à pleins d&amp;rsquo;articles et d&amp;rsquo;informations qui vous aideront durant votre voyage !&lt;/li&gt;
-&lt;li&gt;En cliquant sur le bouton &amp;ldquo;2&amp;rdquo; (cf seconde image), vouss obtenez des renseignements qui vous permettront d&amp;rsquo;accéder facilement à votre hôtel.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2024-05-03_17_14_37-nvidia_geforce_overlay.png&#34; alt=&#34;2024-05-03_17_14_37-nvidia_geforce_overlay.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2024-05-03_17_16_26-nvidia_geforce_overlay.png&#34; alt=&#34;2024-05-03_17_16_26-nvidia_geforce_overlay.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h3&gt;Partie 2 : Les services&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;partie-2--les-services&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#partie-2--les-services&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2024-05-07_17_49_36-mon_carnet_de_route.png&#34; alt=&#34;2024-05-07_17_49_36-mon_carnet_de_route.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;En cliquant sur le bouton &amp;ldquo;Détails&amp;rdquo;, vous accédez à tous les éléments important concernant votre ticket :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2024-05-07_17_56_27-mon_carnet_de_route.png&#34; alt=&#34;2024-05-07_17_56_27-mon_carnet_de_route.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;1 : en cliquant sur &amp;ldquo;accéder en ligne&amp;rdquo;, vous pouvez obtenir le QR code qui vous permettra de récupérer votre bon.&lt;/p&gt;
-&lt;p&gt;2 : la description vous donne tous les éléments que vous avez besoin de connaitre concernant votre pass : comment le récupérer ; comment l&amp;rsquo;utiliser etc.&lt;/p&gt;
-&lt;h3&gt;Partie 3 : les transports&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;partie-3--les-transports&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#partie-3--les-transports&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2024-05-07_18_01_48-mon_carnet_de_route.png&#34; alt=&#34;2024-05-07_18_01_48-mon_carnet_de_route.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;La section 1 vous donne les heures et villes d&amp;rsquo;arrivée et de départ, ainsi que le temps du trajet.&lt;/p&gt;
-&lt;p&gt;En cliquant sur &amp;ldquo;détails&amp;rdquo;, vous pouvez obtenir des renseignements concernant les trains, les correspondances etc.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;En cas de différences entre les indications du carnet et les tickets de train que vous avez réservés, il faut évidemment suivre les indications présentes sur vos billets de train.
-{.is-info}&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;Partie 4 : les itinéraires de voyage&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;partie-4--les-itinéraires-de-voyage&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#partie-4--les-itin%c3%a9raires-de-voyage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/2024-05-07_18_08_40-mon_carnet_de_route.png&#34; alt=&#34;2024-05-07_18_08_40-mon_carnet_de_route.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;itinéraire de voyage vous propose un circuit, que nous avons crée de manière à ce qu&amp;rsquo;il soit autant optimisé que possible.&lt;/p&gt;
-&lt;p&gt;Dans la section 1, vous pouvez retrouver les services, qu&amp;rsquo;il faudra utiliser ou activer à partir de cette journée.&lt;/p&gt;
-&lt;p&gt;Dans la section 2, des suggestions d&amp;rsquo;activité supplémentaire vous sont proposées.&lt;/p&gt;
-&lt;p&gt;D&amp;rsquo;autres sont également suggérées sur les articles que nous avons rédigés sur les différentes &lt;a href=&#34;http://localhost:1313/fr/home/villes&#34; &gt;villes&lt;/a&gt; du Japon.&lt;/p&gt;
-&lt;p&gt;Il est important de garder à l&amp;rsquo;esprit que cet itinéraire peut être modifié au gré de vos envies et des contraintes météorologiques.&lt;/p&gt;
-&lt;h3&gt;Les articles liés&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;les-articles-liés&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#les-articles-li%c3%a9s&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Voici également une série d&amp;rsquo;autres articles liés que nous vous conseillons de consulter pour bien préparer votre voyage :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/home/preparation/periodestouristiques&#34; &gt;Les périodes touristiques&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/home/preparation/applications&#34; &gt;Les applications à télécharger sur son téléphone&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/home/surplace/envois&#34; &gt;Envois de bagages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
     
     <item>
       <title>Brochures</title>
-      <link>http://localhost:1313/fr/docs/brochures/</link>
+      <link>https://cocolotravel.com/fr/docs/brochures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/brochures/</guid>
+      <guid>https://cocolotravel.com/fr/docs/brochures/</guid>
       <description>
         
         
@@ -181,10 +119,10 @@
     
     <item>
       <title>Himeji</title>
-      <link>http://localhost:1313/fr/docs/cities/himeji/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/himeji/</link>
       <pubDate>Tue, 16 Jul 2024 07:19:50 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/himeji/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/himeji/</guid>
       <description>
         
         
@@ -197,18 +135,18 @@
     &lt;a href=&#34;#%c3%a0proximit%c3%a9-du-piole-souvenir-hall&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Sortez par le portique central de la gare et dirigez vous vers la sortie Sud. Les lockers sont situés en face du bureau de la &amp;ldquo;Nippon Travel Agency&amp;rdquo;.&lt;/p&gt;
 &lt;h4&gt;À proximité du &amp;ldquo;Piole 1&amp;rdquo;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;à-proximité-du-piole-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%c3%a0-proximit%c3%a9-du-piole-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;A partir du portique central, dirigez vous vers la sortie &amp;ldquo;Himeji Castle&amp;rdquo;. Les lockers sont situés à droite, contre le mur.&lt;/p&gt;
-&lt;p&gt;Voici également une carte représentant tous les lockers existants dans la gare : &lt;img src=&#34;http://localhost:1313/images/locker_himeji_.png&#34; alt=&#34;locker_himeji_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Voici également une carte représentant tous les lockers existants dans la gare : &lt;img src=&#34;https://cocolotravel.com/images/locker_himeji_.png&#34; alt=&#34;locker_himeji_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Les boutiques&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;les-boutiques&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#les-boutiques&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Si vous n&amp;rsquo;avez pas de chance et que tous les lockers sont utilisés, pas d&amp;rsquo;inquiètude ! Des boutiques se proposent de garder vos affaires et cela à des prix correctes.&lt;/p&gt;
 &lt;p&gt;En voici la liste :&lt;/p&gt;
 &lt;h4&gt;Yamato Yashiki&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;yamato-yashiki&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#yamato-yashiki&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/64f9a2a2-36a9-4c00-a22d-d21a4e9baba6-1-300x225.jpeg&#34; alt=&#34;64f9a2a2-36a9-4c00-a22d-d21a4e9baba6-1-300x225.jpeg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;a href=&#34;#yamato-yashiki&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/64f9a2a2-36a9-4c00-a22d-d21a4e9baba6-1-300x225.jpeg&#34; alt=&#34;64f9a2a2-36a9-4c00-a22d-d21a4e9baba6-1-300x225.jpeg&#34; loading=&#34;lazy&#34; /&gt;
 Horaires: 10h00～18h00（fermé entre 13h00 et 14h00. Fermé le mercredi.&lt;/p&gt;
 &lt;p&gt;Prix : 500 yens. CB et espèce ok.
 Adresse : 235 Ekimae-cho, Himeji, Hyogo 670-0927
 Téléphone : +81-79-244-8212&lt;/p&gt;
 &lt;h4&gt;Clean Market (クリーンマーケット)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;clean-market-クリーンマーケット&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#clean-market-%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/0d4b2ef0-507b-4eaf-8642-d7d6f9c93072-300x225.jpeg&#34; alt=&#34;0d4b2ef0-507b-4eaf-8642-d7d6f9c93072-300x225.jpeg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;a href=&#34;#clean-market-%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/0d4b2ef0-507b-4eaf-8642-d7d6f9c93072-300x225.jpeg&#34; alt=&#34;0d4b2ef0-507b-4eaf-8642-d7d6f9c93072-300x225.jpeg&#34; loading=&#34;lazy&#34; /&gt;
 Horaires : 9h00～18h00. Ouverts 7j/7.&lt;/p&gt;
 &lt;p&gt;Prix : 800 yens. Payement en espèce uniquement.
 Adresse : 235 Ekimae-cho, Himeji, Hyogo 670-0927
@@ -219,10 +157,10 @@ Téléphone : +81-79-225-2525&lt;/p&gt;
     
     <item>
       <title>Kyoto</title>
-      <link>http://localhost:1313/fr/docs/cities/kyoto/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/kyoto/</link>
       <pubDate>Wed, 01 May 2024 03:11:07 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/kyoto/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/kyoto/</guid>
       <description>
         
         
@@ -385,10 +323,10 @@ Horaires :&lt;/p&gt;
     
     <item>
       <title>Activités conseillées</title>
-      <link>http://localhost:1313/fr/docs/injapan/activites/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/activites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/activites/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/activites/</guid>
       <description>
         
         
@@ -489,10 +427,10 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
     
     <item>
       <title>Argent</title>
-      <link>http://localhost:1313/fr/docs/preparation/budget/</link>
+      <link>https://cocolotravel.com/fr/docs/preparation/budget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/preparation/budget/</guid>
+      <guid>https://cocolotravel.com/fr/docs/preparation/budget/</guid>
       <description>
         
         
@@ -510,7 +448,7 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
 &lt;p&gt;Les taux de change sont cependant souvent préférables au Japon. Des bureaux et machines de change sont présents dans les aéroports et proposent un taux correct.&lt;/p&gt;
 &lt;p&gt;À noter cependant que vous ne pourrez échanger de l&amp;rsquo;argent que dans les grandes villes : prévoyez ainsi suffisamment de yens lorsque vous voyagez à la campagne !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Billets de banques et pièces japonaises :&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/moneda_yen-860x496.jpg&#34; alt=&#34;moneda_yen-860x496.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/moneda_yen-860x496.jpg&#34; alt=&#34;moneda_yen-860x496.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Le budget&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;le-budget&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#le-budget&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Le midi, au Japon, on mange très bien pour peu cher. Ainsi, un bol de riz avec viande de bœuf vous coûtera autour de 600 yen, un bol de nouilles ramen autour de 1000 yen, un plateau repas entre 1000 et 1500 yen. Le soir, dans un izakaya, yakitoriya, kaiten-sushi compter entre 1800 et 3000 yen par personne.  Côté boissons, comptez entre 500 et 700 yen pour une bière, 200 et 300 yen pour un soda, 500 et 800 yen pour du saké.&lt;/p&gt;
 &lt;p&gt;La plupart des entrées aux temples et autres activités en villes sont relativement peu onéreuses. Compter 500 yen pour une entrée de temples et 1000 yen pour une entrée de musée.&lt;/p&gt;
@@ -520,10 +458,10 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
     
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/fr/docs/preparation/documentation/</link>
+      <link>https://cocolotravel.com/fr/docs/preparation/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/preparation/documentation/</guid>
+      <guid>https://cocolotravel.com/fr/docs/preparation/documentation/</guid>
       <description>
         
         
@@ -586,10 +524,10 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
     
     <item>
       <title>Envois</title>
-      <link>http://localhost:1313/fr/docs/injapan/envois/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/envois/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/envois/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/envois/</guid>
       <description>
         
         
@@ -611,7 +549,7 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
     &lt;a href=&#34;#le-proc%c3%a9dure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pour faire envoyer vos bagages rien de plus simple, il suffit d&amp;rsquo;utiliser les transporteurs nationaux (Takkyubin).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.global-yamato.com/en/hands-free-travel/scene02.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.global-yamato.com/en/hands-free-travel/scene02.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lorsque vous faites le check out à l&amp;rsquo;hôtel vous informez le staff à la réception de votre envoi (idéalement prévenez-les la veille) et ils vous rempliront le bordereau pour vous. Si vous envoyez votre bagage le matin avant 9 heures vous pourrez le récupérer au plus tôt le lendemain après-midi à la réception de l&amp;rsquo;hôtel suivant. Idéalement descendez vos bagages à la réception &lt;strong&gt;avant d&amp;rsquo;aller prendre le petit-déjeuner&lt;/strong&gt; pour leur laisser tout le temps nécesssaire de prendre les meseures. &lt;strong&gt;Prévoir un sac à dos pour la (ou les) nuitée(s) sans son bagage principal.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/luggage.jpg&#34; alt=&#34;bagages&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/luggage.jpg&#34; alt=&#34;bagages&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Les mesures des bagages sont prises à chaque envoi.&lt;/p&gt;
 &lt;p&gt;Le prix de chaque envoi dépend de la distance, du poids et de la taille de votre bagage ainsi que du nombre de bagage. Comptez environ  2000 JPY (10 euros) par envoi et par bagage. Le staff s&amp;rsquo;occupera de prendre les meusures de votre bagage.&lt;/p&gt;
 &lt;p&gt;Une fois que vous avez envoyé votre bagage vous obtiendrez un reçu papier qu&amp;rsquo;il faudra conserver. Sur celui-ci vous verrez une série de 12 chiffres en haut à droite. C&amp;rsquo;est votre numéro de suivi. Pour suivre votre bagage entrez votre numéro de suivi sur le site ci-dessous &lt;a href=&#34;http://track.kuronekoyamato.co.jp/english/tracking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sur le site de tracking en cliquant sur ce lien&lt;/a&gt;.&lt;/p&gt;
@@ -621,10 +559,10 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
     
     <item>
       <title>Équipement</title>
-      <link>http://localhost:1313/fr/docs/preparation/equipement/</link>
+      <link>https://cocolotravel.com/fr/docs/preparation/equipement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/preparation/equipement/</guid>
+      <guid>https://cocolotravel.com/fr/docs/preparation/equipement/</guid>
       <description>
         
         
@@ -633,7 +571,7 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
 &lt;p&gt;Depuis le 20 mai 2020, les passagers qui circulent avec des valises dont les dimensions totales sont comprises entre 160 et 250 centimètres, ont l&amp;rsquo;obligation de faire les démarches suivantes :&lt;/p&gt;
 &lt;p&gt;Réserver (gratuitement pour les porteurs de JR Pass) à l&amp;rsquo;avance un siège spécial &amp;ldquo;gros bagage&amp;rdquo; qui se situe sur la dernière rangée (à l&amp;rsquo;entrée dans le wagon) ;&lt;/p&gt;
 &lt;p&gt;À l&amp;rsquo;embarquement, placer sa valise derrière sa rangée, dans l&amp;rsquo;espace prévu initialement pour pouvoir baisser le dos du siège.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/transport-gros-bagage-shinkansen.jpg&#34; alt=&#34;transport-gros-bagage-shinkansen.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/transport-gros-bagage-shinkansen.jpg&#34; alt=&#34;transport-gros-bagage-shinkansen.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Lorsque vous envoyez vos bagages, vous aurez aussi besoin d&amp;rsquo;un sac-à-dos confortable pour emporter vos effets personnels la journée mais aussi pour les nuitées sans votre valise principal.&lt;/p&gt;
 &lt;h2&gt;Adaptateur électrique&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;adaptateur-électrique&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#adaptateur-%c3%a9lectrique&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Il vous faudra un adaptateur électrique de type A, avec deux barres parallèles (comme aux US) et, attention, &lt;strong&gt;sans prise de terre&lt;/strong&gt; au milieu (pas de troisième barre au centre).&lt;/p&gt;
@@ -645,24 +583,24 @@ Nous vous conseillons &lt;a href=&#34;https://www.mayukoslittlekitchen.com/&#34;
 &lt;li&gt;Fréquence: 50Hz – 60Hz&lt;/li&gt;
 &lt;li&gt;Type de prise: Type A&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/plug_typea.jpg&#34; alt=&#34;plug_typea.jpg&#34; loading=&#34;lazy&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/images/plug_wall.jpg&#34; alt=&#34;plug_wall.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/plug_typea.jpg&#34; alt=&#34;plug_typea.jpg&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/plug_wall.jpg&#34; alt=&#34;plug_wall.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Hakone</title>
-      <link>http://localhost:1313/fr/docs/cities/hakone/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/hakone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/hakone/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/hakone/</guid>
       <description>
         
         
         &lt;p&gt;La principale attraction de la journée passée à Hakone est le Mont Fuji. Cependant, si celui-ci n&amp;rsquo;est pas visible à cause d&amp;rsquo;un mauvais temps : nuages, pluie, alors il n&amp;rsquo;est pas nécessaire de monter jusqu&amp;rsquo;à Owakudani. Pour vérifier si le mont Fuji est découvert, il suffit de visionner la &lt;a href=&#34;https://www.skylinewebcams.com/en/webcam/japan/kanto/hakone/mount-fuji-lake-ashi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;webcam du Mont Fuji&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Voici un exemple de ce que vous pouvez voir via la webcam. Au moment ou cet article a été écrit, il y a quelques nuages, mais vous apercevez tout de même le Mont Fuji. Pour une journée comme celle-ci, il est ainsi intéressant de monter le voir et de suivre l&amp;rsquo;itinéraire de base.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/capture_d%27%c3%a9cran_2024-05-03_104034.png&#34; alt=&#34;capture_d&amp;rsquo;écran_2024-05-03_104034.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/capture_d%27%c3%a9cran_2024-05-03_104034.png&#34; alt=&#34;capture_d&amp;rsquo;écran_2024-05-03_104034.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;En revanche, si le Mont Fuji n&amp;rsquo;est pas du tout visible, voici quelques activités qui vous permettront tout de même de profiter de votre journée :&lt;/p&gt;
 &lt;h2&gt;Hakone Jinja Shrine&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hakone-jinja-shrine&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#hakone-jinja-shrine&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Situé à proximité du lac Ashinoko, vous y verrez un magnifique Torii, construit dans l&amp;rsquo;eau.&lt;/p&gt;
@@ -681,10 +619,10 @@ Tarifs :&lt;/p&gt;
     
     <item>
       <title>Hakone Free Pass</title>
-      <link>http://localhost:1313/fr/docs/injapan/hakone_free_pass/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/hakone_free_pass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/hakone_free_pass/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/hakone_free_pass/</guid>
       <description>
         
         
@@ -711,73 +649,73 @@ Tarifs :&lt;/p&gt;
 &lt;h3&gt;Odawara&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;odawara&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#odawara&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Situé juste à en face des portiques des lignes Odakyu (pas le guichet à côté des portiques mais en face de l&amp;rsquo;autre côté des portiques).&lt;/p&gt;
 &lt;p&gt;Ouvert de 08:00 à 16:30&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/image-index-05.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/image-index-05.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Shinjuku West&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;shinjuku-west&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#shinjuku-west&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Situé au sous-sol (B1 floor) de la station Shinjuku côté Ouest (West) suivre les panneaux : Odakyu Line. Le guichet à côté des portiques.&lt;/p&gt;
 &lt;p&gt;Ouvert de 08:00 à 18:00&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/image-index-04_01.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/image-index-04_01.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Shinjuku South&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;shinjuku-south&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#shinjuku-south&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Situé au rez-de-chaussée de la station Shinjuku côté sud (South) suivre les panneaux : Odakyu Line. Le guichet en face des portiques.&lt;/p&gt;
 &lt;p&gt;Ouvert de 08:00 à 19:00&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/image-index-06.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/image-index-06.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;Utiliser la borne&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;utiliser-la-borne&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#utiliser-la-borne&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/hakone_free_pass_%281%29.jpg&#34; title=&#34;Commencez par vous rendre devant le Odakyu Sightseeing Service Center&#34; alt=&#34;hakone_free_pass_(1).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/hakone_free_pass_%281%29.jpg&#34; title=&#34;Commencez par vous rendre devant le Odakyu Sightseeing Service Center&#34; alt=&#34;hakone_free_pass_(1).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Commencez par vous rendre devant le Odakyu Sightseeing Service Center&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/hakone_free_pass_%283%29.jpg&#34; title=&#34;Cherchez les bornes, Linktivity&#34; alt=&#34;hakone_free_pass_(3).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/hakone_free_pass_%283%29.jpg&#34; title=&#34;Cherchez les bornes, Linktivity&#34; alt=&#34;hakone_free_pass_(3).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Cherchez les bornes, Linktivity&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/hakone_free_pass_%282%29.jpg&#34; title=&#34;Sur la borne, choisissez Use English&#34; alt=&#34;hakone_free_pass_(2).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/hakone_free_pass_%282%29.jpg&#34; title=&#34;Sur la borne, choisissez Use English&#34; alt=&#34;hakone_free_pass_(2).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Sur la borne, choisissez Use English&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%281%29.jpg&#34; title=&#34;Cliquez sur Select your country/region&#34; alt=&#34;1024-683-max_(1).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%281%29.jpg&#34; title=&#34;Cliquez sur Select your country/region&#34; alt=&#34;1024-683-max_(1).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Cliquez sur Select your country/region&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%282%29.jpg&#34; title=&#34;Choisissez votre pays de résidence&#34; alt=&#34;1024-683-max_(2).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%282%29.jpg&#34; title=&#34;Choisissez votre pays de résidence&#34; alt=&#34;1024-683-max_(2).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Choisissez votre pays de résidence&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%283%29.jpg&#34; title=&#34;Cliquez sur Next&#34; alt=&#34;1024-683-max_(3).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%283%29.jpg&#34; title=&#34;Cliquez sur Next&#34; alt=&#34;1024-683-max_(3).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Cliquez sur Next&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%284%29.jpg&#34; title=&#34;Munissez vous du QR de votre carnet de route.&#34; alt=&#34;1024-683-max_(4).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%284%29.jpg&#34; title=&#34;Munissez vous du QR de votre carnet de route.&#34; alt=&#34;1024-683-max_(4).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Munissez vous du QR de votre carnet de route.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%285%29.jpg&#34; title=&#34;Scanner le QR code&#34; alt=&#34;1024-683-max_(5).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%285%29.jpg&#34; title=&#34;Scanner le QR code&#34; alt=&#34;1024-683-max_(5).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Scanner le QR code&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%286%29.jpg&#34; title=&#34;Cliquez sur Next&#34; alt=&#34;1024-683-max_(6).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%286%29.jpg&#34; title=&#34;Cliquez sur Next&#34; alt=&#34;1024-683-max_(6).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Cliquez sur Next&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%288%29.jpg&#34; title=&#34;Choisissez la date à partir de laquelle le pass SERA ACTIF. Attention, il ne s&amp;#39;agit pas forcément de la date du jour. Il faut bien choisir la date à laquelle vous allez partir de Tokyo jusqu&amp;#39;à Hakone.&#34; alt=&#34;1024-683-max_(8).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%288%29.jpg&#34; title=&#34;Choisissez la date à partir de laquelle le pass SERA ACTIF. Attention, il ne s&amp;#39;agit pas forcément de la date du jour. Il faut bien choisir la date à laquelle vous allez partir de Tokyo jusqu&amp;#39;à Hakone.&#34; alt=&#34;1024-683-max_(8).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Choisissez la date à partir de laquelle le pass SERA ACTIF. Attention, il ne s&amp;#39;agit pas forcément de la date du jour. Il faut bien choisir la date à laquelle vous allez partir de Tokyo jusqu&amp;#39;à Hakone.&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%289%29.jpg&#34; title=&#34;Cliquez sur Next&#34; alt=&#34;1024-683-max_(9).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%289%29.jpg&#34; title=&#34;Cliquez sur Next&#34; alt=&#34;1024-683-max_(9).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Cliquez sur Next&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%2810%29.jpg&#34; title=&#34;Vérifier la date et cliquez sur Issue&#34; alt=&#34;1024-683-max_(10).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%2810%29.jpg&#34; title=&#34;Vérifier la date et cliquez sur Issue&#34; alt=&#34;1024-683-max_(10).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Vérifier la date et cliquez sur Issue&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%287%29.jpg&#34; title=&#34;Cliquez sur ok&#34; alt=&#34;1024-683-max_(7).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%287%29.jpg&#34; title=&#34;Cliquez sur ok&#34; alt=&#34;1024-683-max_(7).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Cliquez sur ok&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/1024-683-max_%2811%29.jpg&#34; title=&#34;Vos tickets vont être imprimés directement par la borne&#34; alt=&#34;1024-683-max_(11).jpg&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%2811%29.jpg&#34; title=&#34;Vos tickets vont être imprimés directement par la borne&#34; alt=&#34;1024-683-max_(11).jpg&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Vos tickets vont être imprimés directement par la borne&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1024-683-max_%2812%29.jpg&#34; alt=&#34;1024-683-max_(12).jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/1024-683-max_%2812%29.jpg&#34; alt=&#34;1024-683-max_(12).jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Et voici votre joli ticket ! Ne le perdez pas, vous en aurez besoin pour la presque totalité des transports jusqu&amp;rsquo;à votre départ de Hakone&lt;/p&gt;
 &lt;p&gt;Si jamais vous faites une erreur dans la date, ne cliquez pas sur &amp;ldquo;proceed to issu&amp;rdquo; : allez chercher un membre du taff qui pourra vous aider à la modifier.&lt;/p&gt;
 
@@ -786,10 +724,10 @@ Tarifs :&lt;/p&gt;
     
     <item>
       <title>Haruka</title>
-      <link>http://localhost:1313/fr/docs/injapan/haruka/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/haruka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/haruka/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/haruka/</guid>
       <description>
         
         
@@ -901,10 +839,10 @@ Pour plus d&amp;rsquo;informations, vous pouvez également consulter &lt;a href=
     
     <item>
       <title>Japan Rail Pass</title>
-      <link>http://localhost:1313/fr/docs/injapan/jr_pass/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/jr_pass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/jr_pass/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/jr_pass/</guid>
       <description>
         
         
@@ -941,26 +879,26 @@ Pour plus d&amp;rsquo;informations, vous pouvez également consulter &lt;a href=
 &lt;p&gt;Réserver des places assignées ne peut se faire qu&amp;rsquo;une fois le JR pass récupéré et donc qu&amp;rsquo;une fois arrivé au Japon, il n&amp;rsquo;est pas possible de le faire en avance. Cette réservation est gratuite une fois que vous avez récupéré votre JR pass, et aucun supplément ne vous sera demandé. {.is-info}&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Veuillez prendre votre Japan Rail Pass à n&amp;rsquo;importe quel guichet avec des staffs (Midori-no-madoguchi みどりの窓口), dans toutes les grandes gares JR (Tokyo, Kyoto, Shinjuku, Narita, Haneda, Osaka, Hiroshima etc&amp;hellip;).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/midorino4.jpg&#34; alt=&#34;midorino4.jpg&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/midorino4.jpg&#34; alt=&#34;midorino4.jpg&#34; loading=&#34;lazy&#34; /&gt;
 &lt;em&gt;Image présentant une billetterie classique des gares JR.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Une fois à la billetterie, on vous demandera votre destination et l&amp;rsquo;heure de départ souhaité. Il vous suffira de montrer &lt;strong&gt;les horaires que nous vous avons préparé sur le carnet de route&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Vous recevrez votre billet de siège réservé, indiquant l&amp;rsquo;heure de départ, l&amp;rsquo;heure d&amp;rsquo;arrivée, le nom du train, la voiture et le siège.&lt;/p&gt;
 &lt;p&gt;Attention: si vous décidez de prendre vos bagages avec vous dans les trains Shinkansen et que vos bagages ne peuvent être misent dans le compartiment au dessus des sièges &lt;em&gt;(taille du bagage supérieur à 160 cm total)&lt;/em&gt;, il faudra réserver des places adaptées aux bagages volumineux.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/transport-gros-bagage-shinkansen.jpg&#34; alt=&#34;transport-gros-bagage-shinkansen.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/transport-gros-bagage-shinkansen.jpg&#34; alt=&#34;transport-gros-bagage-shinkansen.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Les places pour les bagages se situent soit à l&amp;rsquo;arrière des wagons soit dans un compartiment prêt des portes entre les wagons.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bod_img_02_01.jpg&#34; alt=&#34;bod_img_02_01.jpg&#34; loading=&#34;lazy&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/images/bod_img_01_01.png&#34; alt=&#34;bod_img_01_01.png&#34; loading=&#34;lazy&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/images/bod_img_02_04.jpg&#34; alt=&#34;bod_img_02_04.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/bod_img_02_01.jpg&#34; alt=&#34;bod_img_02_01.jpg&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/bod_img_01_01.png&#34; alt=&#34;bod_img_01_01.png&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/bod_img_02_04.jpg&#34; alt=&#34;bod_img_02_04.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Kamakura</title>
-      <link>http://localhost:1313/fr/docs/cities/kamakura/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/kamakura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/kamakura/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/kamakura/</guid>
       <description>
         
         
@@ -1006,10 +944,10 @@ Pour plus d&amp;rsquo;informations, vous pouvez également consulter &lt;a href=
     
     <item>
       <title>Kansai Thru Pass</title>
-      <link>http://localhost:1313/fr/docs/injapan/kansai_thru_pass/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/kansai_thru_pass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/kansai_thru_pass/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/kansai_thru_pass/</guid>
       <description>
         
         
@@ -1039,10 +977,10 @@ Ouvert de 9:00 à 19:00&lt;/p&gt;
     
     <item>
       <title>La météo</title>
-      <link>http://localhost:1313/fr/docs/preparation/weather/</link>
+      <link>https://cocolotravel.com/fr/docs/preparation/weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/preparation/weather/</guid>
+      <guid>https://cocolotravel.com/fr/docs/preparation/weather/</guid>
       <description>
         
         
@@ -1065,8 +1003,8 @@ Ouvert de 9:00 à 19:00&lt;/p&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/moyenne_temp%c3%a9rature_sapporo_.png&#34; alt=&#34;moyenne_température_sapporo_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/tokyo_temp%c3%a9rature_.png&#34; alt=&#34;tokyo_température_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/moyenne_temp%c3%a9rature_sapporo_.png&#34; alt=&#34;moyenne_température_sapporo_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/tokyo_temp%c3%a9rature_.png&#34; alt=&#34;tokyo_température_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1079,8 +1017,8 @@ Ouvert de 9:00 à 19:00&lt;/p&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/osaka_m%c3%a9t%c3%a9o_.png&#34; alt=&#34;osaka_météo_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/m%c3%a9t%c3%a9o_fukuoka_.png&#34; alt=&#34;météo_fukuoka_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/osaka_m%c3%a9t%c3%a9o_.png&#34; alt=&#34;osaka_météo_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/m%c3%a9t%c3%a9o_fukuoka_.png&#34; alt=&#34;météo_fukuoka_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1124,10 +1062,10 @@ Une petite veste imperméable, ainsi qu&amp;rsquo;une un peu plus chaude pour le
     
     <item>
       <title>Le wifi</title>
-      <link>http://localhost:1313/fr/docs/injapan/wifi/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/wifi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/wifi/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/wifi/</guid>
       <description>
         
         
@@ -1136,8 +1074,8 @@ Une petite veste imperméable, ainsi qu&amp;rsquo;une un peu plus chaude pour le
 &lt;p&gt;Les données sont illimitées.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;Récupérer le boitier&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;récupérer-le-boitier&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#r%c3%a9cup%c3%a9rer-le-boitier&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/img_3481.jpg&#34; alt=&#34;img_3481.jpg&#34; loading=&#34;lazy&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/images/img_3486.jpg&#34; alt=&#34;img_3486.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#r%c3%a9cup%c3%a9rer-le-boitier&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/img_3481.jpg&#34; alt=&#34;img_3481.jpg&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/img_3486.jpg&#34; alt=&#34;img_3486.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Le boitier se récupère à une des bornes de la marque &lt;strong&gt;WifiBox by Telecom Square&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Il existe de nombreuse bornes à travers le Japon. Consultez la &lt;a href=&#34;https://wifibox-jp.telecomsquare.net/fr/location_list.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;liste complète des bornes&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1148,11 +1086,11 @@ Une petite veste imperméable, ainsi qu&amp;rsquo;une un peu plus chaude pour le
 &lt;li&gt;Dirigez-vous au comptoir indiqué sur le voucher.&lt;/li&gt;
 &lt;li&gt;Devant la borne, cliquez sur le lien que le voucher contient&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Si la notification s&amp;rsquo;affiche&lt;/strong&gt; : autorisez l&amp;rsquo;utilisation de la caméra de votre téléphone.
-&lt;img src=&#34;http://localhost:1313/images/img_3479.png&#34; alt=&#34;img_3479.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/img_3479.png&#34; alt=&#34;img_3479.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Avec votre téléphone, scannez le QR code qui se situe à droite sur l&amp;rsquo;écran de la machine WifiBox
-&lt;img src=&#34;http://localhost:1313/images/img_3493_texte.png&#34; alt=&#34;img_3493_texte.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/img_3493_texte.png&#34; alt=&#34;img_3493_texte.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Votre boitier s&amp;rsquo;extrait automatiquement.
-&lt;img src=&#34;http://localhost:1313/images/img_3481.jpg&#34; alt=&#34;img_3481.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/img_3481.jpg&#34; alt=&#34;img_3481.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Utiliser le boitier&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;utiliser-le-boitier&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#utiliser-le-boitier&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Se connecter&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;se-connecter&#34;&gt;&lt;/span&gt;
@@ -1161,9 +1099,9 @@ Une petite veste imperméable, ainsi qu&amp;rsquo;une un peu plus chaude pour le
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Allumez le boitier en appuyant sur bouton du milieu en forme d&amp;rsquo;éclair
-&lt;img src=&#34;http://localhost:1313/images/img_3492.jpg&#34; alt=&#34;img_3492.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/img_3492.jpg&#34; alt=&#34;img_3492.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Notez le nom (&lt;em&gt;SSID&lt;/em&gt;) et mot de passe du boitier (indiqué au dos de celui-ci)
-&lt;img src=&#34;http://localhost:1313/images/img_3488.jpg&#34; alt=&#34;img_3488.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/img_3488.jpg&#34; alt=&#34;img_3488.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Sur votre téléphone, dans la liste des réseaux wifi disponibles, cliquez sur le nom de votre boitier puis entrez le mot de passe.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Faites cela pour tous les appareils que vous souhaitez connecter !&lt;/p&gt;
@@ -1174,12 +1112,12 @@ Une petite veste imperméable, ainsi qu&amp;rsquo;une un peu plus chaude pour le
 &lt;ul&gt;
 &lt;li&gt;Soit en utilisant un chargeur USB C (qui permet de charger la plupart des nouveaux téléphones Android), option la plus safe, qui évitera que votre boitier ne se débranche par accident durant la nuit&lt;/li&gt;
 &lt;li&gt;Soit directement à un port USB (à un ordinateur par ex).
-&lt;img src=&#34;http://localhost:1313/images/wifi_%283%29.jpg&#34; alt=&#34;wifi_(3).jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/wifi_%283%29.jpg&#34; alt=&#34;wifi_(3).jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Soit en le branchant à la base de votre chargeur de téléphone : si celle-ci est munie d&amp;rsquo;un port USB. Puis en utiliser un adaptateur qui vous permettra de la brancher à une prise japonaise.
-&lt;img src=&#34;http://localhost:1313/images/wifi_%282%29.jpg&#34; alt=&#34;wifi_(2).jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/wifi_%282%29.jpg&#34; alt=&#34;wifi_(2).jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Soit en achetant une prise de chargement USB japonaise : elles sont disponibles pour 800 yens au comptoir ou vous récupérez votre boitier.
-&lt;img src=&#34;http://localhost:1313/images/wifi_%281%29.jpg&#34; alt=&#34;wifi_(1).jpg&#34; loading=&#34;lazy&#34; /&gt;
-&lt;img src=&#34;http://localhost:1313/images/img_3484.jpg&#34; alt=&#34;img_3484.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/wifi_%281%29.jpg&#34; alt=&#34;wifi_(1).jpg&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/img_3484.jpg&#34; alt=&#34;img_3484.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Retourner le boitier&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;retourner-le-boitier&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#retourner-le-boitier&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Il suffit d&amp;rsquo;apporter votre boitier au comptoir Wifibox de votre aéroport de retour. Il est possible de déposer le boitier à un aéroport différent de celui dans lequel vous l&amp;rsquo;avez récupéré.&lt;/p&gt;
@@ -1200,10 +1138,10 @@ Une petite veste imperméable, ainsi qu&amp;rsquo;une un peu plus chaude pour le
     
     <item>
       <title>Les applications</title>
-      <link>http://localhost:1313/fr/docs/preparation/applications/</link>
+      <link>https://cocolotravel.com/fr/docs/preparation/applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/preparation/applications/</guid>
+      <guid>https://cocolotravel.com/fr/docs/preparation/applications/</guid>
       <description>
         
         
@@ -1213,17 +1151,17 @@ Une petite veste imperméable, ainsi qu&amp;rsquo;une un peu plus chaude pour le
     &lt;a href=&#34;#google-map&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Google Map est le GPS le plus fiable au Japon. Il vous permettra de vous déplacer sans aucune difficulté et de savoir quel bus / train / métro emprunter en fonction d&amp;rsquo;où vous souhaitez vous rendre.
 L&amp;rsquo;application &amp;ldquo;Plan&amp;rdquo; disponible sur les Iphones peut aussi être utilisée, mais elle n&amp;rsquo;est pas aussi fiable que Google Map.&lt;/p&gt;
 &lt;p&gt;Sur la capture d&amp;rsquo;écran ci-dessous, vous pouvez voir que Google Map indique plusieurs itinéraires permettant de se rendre de la gare de Shinjuku à l&amp;rsquo;hôtel Asakusa Tobu, en indiquant le temps de transport, les lignes à prendre, les changements, etc.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/440304919_1420866745463492_3594195386985769329_n.jpg&#34; alt=&#34;440304919_1420866745463492_3594195386985769329_n.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/440304919_1420866745463492_3594195386985769329_n.jpg&#34; alt=&#34;440304919_1420866745463492_3594195386985769329_n.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Google traduction&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;google-traduction&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#google-traduction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Google traduction vous sera très utile durant votre voyage, pour traduire aussi bien des phrases en japonais, qu&amp;rsquo;en anglais, que vous pourriez ne pas comprendre.&lt;/p&gt;
 &lt;p&gt;Il vous aide également à vous exprimer : vous pouvez taper en français une phrase, lui demander de le traduire en japonais, et via le bouton &amp;ldquo;microphone&amp;rdquo; lui faire lire la phrase à haute voix : plus besoin de vous soucier de la prononciation !&lt;/p&gt;
 &lt;p&gt;Une autre fonctionnalité de l&amp;rsquo;application qui est très utile est la possibilité de traduire instantanément du texte. Cela vous permet ainsi de mieux comprendre les plats au restaurant ou dans les supérettes. Cette fonctionnalité est par ailleurs primordiale pour toutes les personnes ayant des allergies ou des restrictions alimentaires !&lt;/p&gt;
 &lt;p&gt;Prenons un exemple avec ce paquet de chips :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/440729611_432693916032431_2529896469056892381_n.jpg&#34; alt=&#34;440729611_432693916032431_2529896469056892381_n.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/440729611_432693916032431_2529896469056892381_n.jpg&#34; alt=&#34;440729611_432693916032431_2529896469056892381_n.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;La fonctionnalité appareil photo de Google Traduction vous permet de facilement traduire les ingrédients qu&amp;rsquo;il contient, et tout ce qui est noté au dos de son emballage :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ffff.jpg&#34; alt=&#34;ffff.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/ffff.jpg&#34; alt=&#34;ffff.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Convertisseur de monnaie Yen-Euro&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;convertisseur-de-monnaie-yen-euro&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#convertisseur-de-monnaie-yen-euro&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/440010711_449771244080345_8916600121604548973_n.jpg&#34; alt=&#34;440010711_449771244080345_8916600121604548973_n.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#convertisseur-de-monnaie-yen-euro&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/440010711_449771244080345_8916600121604548973_n.jpg&#34; alt=&#34;440010711_449771244080345_8916600121604548973_n.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Les applications de conversion de monnaie ne sont pas 100 % exactes, car elles ne prennent pas en compte les frais de change. Cependant, elles vous aideront à mieux estimer le prix, en euro, de ce que vous allez payer lors de votre voyage.&lt;/p&gt;
 &lt;p&gt;Nous n&amp;rsquo;avons pas d&amp;rsquo;application en particulier à vous conseiller : nous vous conseillons simplement d&amp;rsquo;en utiliser une simple, qui vous permettra de faire les conversions du Yen à l&amp;rsquo;Euro et de l&amp;rsquo;Euro au Yen.&lt;/p&gt;
 &lt;h2&gt;Navitime&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;navitime&#34;&gt;&lt;/span&gt;
@@ -1235,10 +1173,10 @@ L&amp;rsquo;application &amp;ldquo;Plan&amp;rdquo; disponible sur les Iphones pe
     
     <item>
       <title>Les laveries</title>
-      <link>http://localhost:1313/fr/docs/injapan/laveries/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/laveries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/laveries/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/laveries/</guid>
       <description>
         
         
@@ -1276,10 +1214,10 @@ NA LAUNDRY KAMINARIMON
     
     <item>
       <title>Mots Utiles</title>
-      <link>http://localhost:1313/fr/docs/preparation/usefulwords/</link>
+      <link>https://cocolotravel.com/fr/docs/preparation/usefulwords/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/preparation/usefulwords/</guid>
+      <guid>https://cocolotravel.com/fr/docs/preparation/usefulwords/</guid>
       <description>
         
         
@@ -1538,10 +1476,10 @@ NA LAUNDRY KAMINARIMON
     
     <item>
       <title>Naoshima</title>
-      <link>http://localhost:1313/fr/docs/cities/naoshima/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/naoshima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/naoshima/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/naoshima/</guid>
       <description>
         
         
@@ -1637,10 +1575,10 @@ Horaires：&lt;/p&gt;
     
     <item>
       <title>Nara</title>
-      <link>http://localhost:1313/fr/docs/cities/nara/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/nara/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/nara/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/nara/</guid>
       <description>
         
         
@@ -1721,10 +1659,10 @@ Entrée : 500 yens&lt;/p&gt;
     
     <item>
       <title>Osaka</title>
-      <link>http://localhost:1313/fr/docs/cities/osaka/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/osaka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/osaka/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/osaka/</guid>
       <description>
         
         
@@ -1775,10 +1713,10 @@ Entrée : gratuite&lt;/p&gt;
     
     <item>
       <title>Rapit</title>
-      <link>http://localhost:1313/fr/docs/injapan/rapit/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/rapit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/rapit/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/rapit/</guid>
       <description>
         
         
@@ -1796,19 +1734,19 @@ Entrée : gratuite&lt;/p&gt;
 &lt;h2&gt;Comment réserver vos places&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;comment-réserver-vos-places&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#comment-r%c3%a9server-vos-places&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;Cliquez sur le lien présent dans le voucher que vous trouverez sur le roadbook:
-&lt;img src=&#34;http://localhost:1313/images/rapit_1.png&#34; alt=&#34;rapit_1.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/rapit_1.png&#34; alt=&#34;rapit_1.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Vous arriverez sur la page suivante:
-&lt;img src=&#34;http://localhost:1313/images/rapit_2.png&#34; alt=&#34;rapit_2.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/rapit_2.png&#34; alt=&#34;rapit_2.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Cliquez sur &amp;ldquo;seat reservation/change&amp;rdquo;
-&lt;img src=&#34;http://localhost:1313/rapit_3_.png&#34; alt=&#34;rapit_3_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/rapit_3_.png&#34; alt=&#34;rapit_3_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Modifiez la date, l&amp;rsquo;heure et la station d&amp;rsquo;arrivée et de départ :
-&lt;img src=&#34;http://localhost:1313/images/rapit_4_.png&#34; alt=&#34;rapit_4_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/rapit_4_.png&#34; alt=&#34;rapit_4_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Sélectionnez l&amp;rsquo;horaire du train qui vous convient le mieux ainsi que le nombre de passagers :
-&lt;img src=&#34;http://localhost:1313/images/rapit_5_.png&#34; alt=&#34;rapit_5_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/rapit_5_.png&#34; alt=&#34;rapit_5_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Vous pourrez ensuite sélectionner le wagon et les places que vous souhaitez réserver.
-&lt;img src=&#34;http://localhost:1313/images/rapit_6.png&#34; alt=&#34;rapit_6.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/rapit_6.png&#34; alt=&#34;rapit_6.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;li&gt;Une fois cela terminé, vérifiez les informations indiquées et n&amp;rsquo;oubliez pas de cliquer sur &amp;ldquo;confirmer&amp;rdquo;
-&lt;img src=&#34;http://localhost:1313/images/rapit_7_.png&#34; alt=&#34;rapit_7_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/rapit_7_.png&#34; alt=&#34;rapit_7_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Les horaires du Rapi:t&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;les-horaires-du-rapit&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#les-horaires-du-rapit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Rendez-vous sur &lt;a href=&#34;https://kensaku.nankai.co.jp/en/pc/N1?_gl=1*1blafou*_ga*Mzk4ODEyMjc2LjE3MjI0ODA5ODk.*_ga_1NFRFFMWCW*MTcyNjA0ODcyNi4yLjAuMTcyNjA0ODcyNi42MC4wLjA.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ce site&lt;/a&gt; (en anglais) pour trouver l&amp;rsquo;horaire de train le mieux adapté.
@@ -1823,10 +1761,10 @@ Il faudra indiquer : &amp;ldquo;Namba&amp;rdquo; en departure station et &amp;ld
     
     <item>
       <title>Restaurants</title>
-      <link>http://localhost:1313/fr/docs/injapan/restaurants/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/restaurants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/restaurants/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/restaurants/</guid>
       <description>
         
         
@@ -1979,10 +1917,10 @@ Il faudra indiquer : &amp;ldquo;Namba&amp;rdquo; en departure station et &amp;ld
     
     <item>
       <title>Saisons</title>
-      <link>http://localhost:1313/fr/docs/preparation/seasons/</link>
+      <link>https://cocolotravel.com/fr/docs/preparation/seasons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/preparation/seasons/</guid>
+      <guid>https://cocolotravel.com/fr/docs/preparation/seasons/</guid>
       <description>
         
         
@@ -2066,10 +2004,10 @@ Vous pouvez retrouver le planning des jours fériés du Japon à la fin de cet a
     
     <item>
       <title>Skyliner</title>
-      <link>http://localhost:1313/fr/docs/injapan/skyliner/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/skyliner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/skyliner/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/skyliner/</guid>
       <description>
         
         
@@ -2078,12 +2016,12 @@ Vous pouvez retrouver le planning des jours fériés du Japon à la fin de cet a
 &lt;h3&gt;Localiser le distributeur de billets Skyliner&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;localiser-le-distributeur-de-billets-skyliner&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#localiser-le-distributeur-de-billets-skyliner&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Les distributeurs de billets Skyliner sont spécialement désignés et se trouvent aux terminaux 1, 2 et 3 de l&amp;rsquo;aéroport de Narita à &lt;a href=&#34;https://maps.app.goo.gl/xL3PsXCpGopTvpqu9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;la station de Ueno&lt;/a&gt; et à &lt;a href=&#34;https://maps.app.goo.gl/brZyRTrERTo4rcR36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;la station de Nippori&lt;/a&gt;. Par exemple, si vous atterrissez au terminal 1, il vous suffit de vous rendre à l&amp;rsquo;étage B1 F. Ces distributeurs sont situés à proximité du centre d&amp;rsquo;information Skyliner &amp;amp; Keisei, ce qui les rend faciles à localiser.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%281%29.png&#34; title=&#34;Distributeur de billets Skyliner&#34; alt=&#34;skyliner_(1).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%281%29.png&#34; title=&#34;Distributeur de billets Skyliner&#34; alt=&#34;skyliner_(1).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Distributeur de billets Skyliner&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Choisissez votre langue préférée&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;choisissez-votre-langue-préférée&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#choisissez-votre-langue-pr%c3%a9f%c3%a9r%c3%a9e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%2813%29.png&#34; title=&#34;Choisissez votre langue préférée&#34; alt=&#34;skyliner_(13).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%2813%29.png&#34; title=&#34;Choisissez votre langue préférée&#34; alt=&#34;skyliner_(13).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Choisissez votre langue préférée&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;![skyliner_(12).png](/images/skyliner_(12).png &amp;ldquo;Cliquez sur &amp;ldquo;Échange de codes&amp;rdquo;&amp;rdquo;)&lt;/p&gt;
@@ -2091,60 +2029,60 @@ Vous pouvez retrouver le planning des jours fériés du Japon à la fin de cet a
 &lt;h3&gt;Scannez votre code QR&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;scannez-votre-code-qr&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#scannez-votre-code-qr&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Le code QR qui figure sur le bon d&amp;rsquo;échange doit être scanné sur cette machine. Cette étape est essentielle, que vous utilisiez la machine ou que vous vous rendiez directement à la billetterie.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%2814%29.png&#34; title=&#34;Scannez votre code QR&#34; alt=&#34;skyliner_(14).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%2814%29.png&#34; title=&#34;Scannez votre code QR&#34; alt=&#34;skyliner_(14).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Scannez votre code QR&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Numérisez votre passeport&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;numérisez-votre-passeport&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#num%c3%a9risez-votre-passeport&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Après avoir scanné votre code QR, l&amp;rsquo;appareil pourra vous demander de scanner votre passeport &lt;strong&gt;(ou pas)&lt;/strong&gt;. Si vous voyagez en groupe ou en famille, veillez à scanner les passeports de chaque personne possédant un billet.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%2811%29.png&#34; title=&#34;Numériser votre passeport&#34; alt=&#34;skyliner_(11).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%2811%29.png&#34; title=&#34;Numériser votre passeport&#34; alt=&#34;skyliner_(11).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Numériser votre passeport&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%2810%29.png&#34; title=&#34;Scanner le passeport&#34; alt=&#34;skyliner_(10).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%2810%29.png&#34; title=&#34;Scanner le passeport&#34; alt=&#34;skyliner_(10).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Scanner le passeport&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Choisissez la date et l&amp;rsquo;heure de votre voyage&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;choisissez-la-date-et-lheure-de-votre-voyage&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#choisissez-la-date-et-lheure-de-votre-voyage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Après avoir scanné votre passeport, choisissez la date et l&amp;rsquo;heure de départ souhaitées. L&amp;rsquo;appareil vous proposera alors des options de train dans ce laps de temps.&lt;/p&gt;
 &lt;p&gt;Par exemple, si vous choisissez un départ à 13 heures, l&amp;rsquo;appareil affichera les trains partant à 13 h 13, 13 h 39 et 13 h 59, ainsi que leurs heures d&amp;rsquo;arrivée respectives. Ajustez cela en fonction de votre emploi du temps.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%289%29.png&#34; title=&#34;Choisir la date de départ&#34; alt=&#34;skyliner_(9).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%289%29.png&#34; title=&#34;Choisir la date de départ&#34; alt=&#34;skyliner_(9).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Choisir la date de départ&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%288%29.png&#34; title=&#34;Choisissez votre heure de départ&#34; alt=&#34;skyliner_(8).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%288%29.png&#34; title=&#34;Choisissez votre heure de départ&#34; alt=&#34;skyliner_(8).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Choisissez votre heure de départ&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%287%29.png&#34; title=&#34;Choisissez le train dans lequel vous montez&#34; alt=&#34;skyliner_(7).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%287%29.png&#34; title=&#34;Choisissez le train dans lequel vous montez&#34; alt=&#34;skyliner_(7).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Choisissez le train dans lequel vous montez&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Choisissez votre station de destination&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;choisissez-votre-station-de-destination&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#choisissez-votre-station-de-destination&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Pour obtenir votre billet, vous devez d&amp;rsquo;abord choisir votre gare de destination. Soit &lt;strong&gt;Narita, Ueno ou Nippori&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%286%29.png&#34; title=&#34;Choisissez votre gare de destination&#34; alt=&#34;skyliner_(6).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%286%29.png&#34; title=&#34;Choisissez votre gare de destination&#34; alt=&#34;skyliner_(6).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Choisissez votre gare de destination&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Sélectionnez votre siège&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;sélectionnez-votre-siège&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#s%c3%a9lectionnez-votre-si%c3%a8ge&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tous les sièges du Keisei Skyliner sont réservés. Cela signifie que vous pouvez choisir l&amp;rsquo;endroit où vous voulez vous asseoir. Une option &amp;ldquo;spécifier un siège&amp;rdquo; est prévue à cet effet sur la machine. Croyez-moi, vous serez reconnaissant d&amp;rsquo;avoir un siège, surtout pour un voyage qui dure entre 40 minutes et une heure.&lt;/p&gt;
 &lt;p&gt;Lorsque vous accédez à cette option, vous voyez une représentation visuelle de la disposition des sièges dans le train. Il est important de regarder attentivement les numéros des sièges et leur position. Si vous voyagez avec d&amp;rsquo;autres personnes et que vous souhaitez vous asseoir ensemble, n&amp;rsquo;oubliez pas de choisir des sièges verticaux (l&amp;rsquo;un derrière l&amp;rsquo;autre) et non côte à côte.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%285%29.png&#34; title=&#34;Sélectionnez vos sièges&#34; alt=&#34;skyliner_(5).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%285%29.png&#34; title=&#34;Sélectionnez vos sièges&#34; alt=&#34;skyliner_(5).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Sélectionnez vos sièges&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Si vous choisissez par erreur des sièges en fonction d&amp;rsquo;une mauvaise disposition, votre groupe risque de se retrouver éparpillé. Petit conseil : dans l&amp;rsquo;aperçu du &amp;ldquo;siège sélectionné&amp;rdquo;, si les numéros de sièges sont consécutifs, cela signifie que ces sièges sont ensemble. Une fois que vous avez confirmé votre choix, cliquez sur &amp;ldquo;OK&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%284%29.png&#34; title=&#34;Sélectionnez vos sièges&#34; alt=&#34;skyliner_(4).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%284%29.png&#34; title=&#34;Sélectionnez vos sièges&#34; alt=&#34;skyliner_(4).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Sélectionnez vos sièges&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Retirez votre billet&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;retirez-votre-billet&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#retirez-votre-billet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Une fois que vous avez choisi votre siège, la machine a besoin d&amp;rsquo;un moment pour traiter vos choix. Une fois que c&amp;rsquo;est fait, votre billet apparaît. N&amp;rsquo;oubliez pas de prendre votre billet et de faire un tour rapide de la zone pour vous assurer que vous n&amp;rsquo;avez rien oublié.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%283%29.png&#34; title=&#34;Prenez vos billets&#34; alt=&#34;skyliner_(3).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%283%29.png&#34; title=&#34;Prenez vos billets&#34; alt=&#34;skyliner_(3).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Prenez vos billets&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://localhost:1313/images/skyliner_%282%29.png&#34; title=&#34;Billet Skyline&#34; alt=&#34;skyliner_(2).png&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;img src=&#34;https://cocolotravel.com/images/skyliner_%282%29.png&#34; title=&#34;Billet Skyline&#34; alt=&#34;skyliner_(2).png&#34; loading=&#34;lazy&#34; /&gt;
     &lt;figcaption&gt;Billet Skyline&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -2154,10 +2092,10 @@ Vous pouvez retrouver le planning des jours fériés du Japon à la fin de cet a
     
     <item>
       <title>Souvenirs</title>
-      <link>http://localhost:1313/fr/docs/injapan/souvenirs/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/souvenirs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/souvenirs/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/souvenirs/</guid>
       <description>
         
         
@@ -2166,7 +2104,7 @@ Vous pouvez retrouver le planning des jours fériés du Japon à la fin de cet a
 Cette boutique établie en 1560 propose des couteaux japonais professionnels réalisés avec le savoir faire traditionnel du pays. Vous aurez la possibilité de faire graver votre nom sur votre couteau et de demander des informations sur la meilleure façon de l&amp;rsquo;aiguiser.&lt;/p&gt;
 &lt;p&gt;Addresse: 〒604-8052 Kyoto, Nakagyo Ward, Kajiyacho, 219
 Cliquez &lt;a href=&#34;https://aritsugu.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt; pour accéder à son site internet.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/couteau.jpg&#34; alt=&#34;couteau.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/couteau.jpg&#34; alt=&#34;couteau.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;La vaisselle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;la-vaisselle&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#la-vaisselle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Vous aimez l&amp;rsquo;art de la table et la décoration intérieure ? Vous souhaitez ramener des céramiques japonaises chez vous ou en offir? Voici notre sélection de boutiques à ne pas louper !&lt;/p&gt;
 &lt;ul&gt;
@@ -2190,9 +2128,9 @@ Adresse : 3 Chome-319 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/2023-12-04.jpg&#34; alt=&#34;2023-12-04.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/touten.png&#34; alt=&#34;touten.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/shoindo.jpg&#34; alt=&#34;shoindo.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/2023-12-04.jpg&#34; alt=&#34;2023-12-04.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/touten.png&#34; alt=&#34;touten.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/shoindo.jpg&#34; alt=&#34;shoindo.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2207,7 +2145,7 @@ Cliquez &lt;a href=&#34;https://hashitou.co.jp/english/&#34; target=&#34;_blank&
 &lt;blockquote&gt;
 &lt;p&gt;Notre astuce : Ne faites pas l&amp;rsquo;impasse sur les portes baguettes ! Ceux-ci peuvent être convertis en porte-couteaux et embelliront votre table à chaque fois que vous accueillerez des invités chez vous.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/baguettes.jpg&#34; alt=&#34;baguettes.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/baguettes.jpg&#34; alt=&#34;baguettes.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Les accessoires&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;les-accessoires&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#les-accessoires&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Envie d&amp;rsquo;un accessoire unique à garder en souvenir de votre séjour au Japon? Voici notre sélection de boutique originale, ou vous trouverez votre bonheur.&lt;/p&gt;
 &lt;ul&gt;
@@ -2223,8 +2161,8 @@ Adresse : 2-11-9 Hanakawado,Taito-ku,Tokyo,111-0033,Japan&lt;/li&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/chaussure_kimono_.png&#34; alt=&#34;Chaussure en tissu Kimono&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/sac_kimono_.png&#34; alt=&#34;Sac en tissu kimono&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/chaussure_kimono_.png&#34; alt=&#34;Chaussure en tissu Kimono&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://cocolotravel.com/images/sac_kimono_.png&#34; alt=&#34;Sac en tissu kimono&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2232,7 +2170,7 @@ Adresse : 2-11-9 Hanakawado,Taito-ku,Tokyo,111-0033,Japan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Kyoto&lt;/strong&gt; :Rendez-vous chez la boutique Sousou, pour trouver pleins d&amp;rsquo;articles et accessoires originaux et colorés, qui mixent tradition et modernité ! Vous trouverez ici &lt;a href=&#34;https://www.sousou.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leur site internet&lt;/a&gt;.
 Adresse : 579-9 Nakanocho, Nakagyo Ward, Kyoto, 604-8042&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kyoto-sou-sou-193099.jpg&#34; alt=&#34;kyoto-sou-sou-193099.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/kyoto-sou-sou-193099.jpg&#34; alt=&#34;kyoto-sou-sou-193099.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Les Kimono, Yukata, Obi&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;les-kimono-yukata-obi&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#les-kimono-yukata-obi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tokyo&lt;/strong&gt; : Vous pourrez trouver de beaux Kimono dans la boutique Kimono Hazuki. N&amp;rsquo;hésitez pas à jeter un œil à &lt;a href=&#34;https://www.instagram.com/kimonohazuki77/?igshid=YmMyMTA2M2Y%3D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leur compte instagram&lt;/a&gt;.
@@ -2240,13 +2178,13 @@ Adresse : 〒168-0063 Tokyo, Suginami City, Izumi, 2 Chome−2−24 1階&lt;/li&
 &lt;li&gt;&lt;strong&gt;Kyoto&lt;/strong&gt; : Déjà cité précédemment, la boutique Sousou regorge de Kimono et Yukata, qui peuvent être portés dans la vie de tous les jours. Vous trouverez ici &lt;a href=&#34;https://www.sousou.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leur site internet&lt;/a&gt;.
 Adresse : 579-9 Nakanocho, Nakagyo Ward, Kyoto, 604-8042&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/132569063.webp&#34; alt=&#34;132569063.webp&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/132569063.webp&#34; alt=&#34;132569063.webp&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Les boites à Bento&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;les-boites-à-bento&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#les-boites-%c3%a0-bento&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;La boite à Bento c&amp;rsquo;est l&amp;rsquo;accessoire qui va embellir votre pause repas du midi et vos pique-niques en famille !
 Que vous souhaitiez un design plutôt moderne ou traditionnel, vous en trouverez une à votre goût chez Bento and Co, boutique située à Kyoto !
 Adresse : 117 Yaoyacho, Nakagyo-ku, Kyoto, Japan 604-8072
 Plus d&amp;rsquo;info sur &lt;a href=&#34;https://www.bentoandco.com/pages/boutique-bento-co-kyoto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leur site internet&lt;/a&gt;.
-&lt;img src=&#34;http://localhost:1313/images/boite_%c3%a0_bento_.png&#34; alt=&#34;boite_à_bento_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/boite_%c3%a0_bento_.png&#34; alt=&#34;boite_à_bento_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Les Furoshiki&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;les-furoshiki&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#les-furoshiki&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Les furoshiki sont des tissus traditionnels qui servent à emballer vos objets afin d&amp;rsquo;en faciliter le transport, comme par exemple des boites à Bento.
 Avec des boutiques à Tokyo comme à Kyoto, nous vous conseillons les magasins Musubi, ou vous pourrez trouver plus de 500 différents modèles.&lt;/p&gt;
@@ -2255,7 +2193,7 @@ Avec des boutiques à Tokyo comme à Kyoto, nous vous conseillons les magasins M
 &lt;li&gt;&lt;strong&gt;Tokyo&lt;/strong&gt; : Musubi, 2-31-8, Jingumae, Shibuya-ku, Tokyo 150-0001&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Kyoto&lt;/strong&gt; : 67 Masuyacho , Nagagyo-ku Kyoto-shi, Kyoto, 604-8111, Japon&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Plus d&amp;rsquo;info sur &lt;a href=&#34;https://www.musubi-furoshiki.com/fr/collections/ukiyoe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leur site internet&lt;/a&gt;.&lt;img src=&#34;http://localhost:1313/images/musubi_ukioye_furoshiki.webp&#34; alt=&#34;musubi_ukioye_furoshiki.webp&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Plus d&amp;rsquo;info sur &lt;a href=&#34;https://www.musubi-furoshiki.com/fr/collections/ukiyoe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leur site internet&lt;/a&gt;.&lt;img src=&#34;https://cocolotravel.com/images/musubi_ukioye_furoshiki.webp&#34; alt=&#34;musubi_ukioye_furoshiki.webp&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Le thé&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;le-thé&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#le-th%c3%a9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Présente à Tokyo ainsi qu&amp;rsquo;à Kyoto, la boutique Ippodo Tea est spécialisée dans les thés Japonais depuis 1717. Vous pourrez y acheter des thés de qualité et obtenir des recommandations grâce à leur savoir faire.&lt;/p&gt;
 &lt;p&gt;Adresses :&lt;/p&gt;
@@ -2264,21 +2202,21 @@ Avec des boutiques à Tokyo comme à Kyoto, nous vous conseillons les magasins M
 &lt;li&gt;&lt;strong&gt;Tokyo&lt;/strong&gt; : Kokusai Bldg. 1F 3-1-1 Marunouchi Chiyoda Ward, Tokyo 100-0005&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Découvrez également leur &lt;a href=&#34;https://global.ippodo-tea.co.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site internet&lt;/a&gt;.
-&lt;img src=&#34;http://localhost:1313/images/kit_macha_.png&#34; alt=&#34;kit_macha_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://cocolotravel.com/images/kit_macha_.png&#34; alt=&#34;kit_macha_.png&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Suica</title>
-      <link>http://localhost:1313/fr/docs/injapan/suica/</link>
+      <link>https://cocolotravel.com/fr/docs/injapan/suica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/injapan/suica/</guid>
+      <guid>https://cocolotravel.com/fr/docs/injapan/suica/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/suica.jpg&#34; alt=&#34;suica.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/suica.jpg&#34; alt=&#34;suica.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Description&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;description&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#description&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Une carte de paiement sans contact c&amp;rsquo;est commme un porte-monnaie électronique qui permet de payer les transports en commun et de faire des achats.&lt;/p&gt;
 &lt;p&gt;Il y a pléthore de marque de carte de paiement sans contact au Japon. Les plus connues étant SUICA et PASUMO. Toutes sont acceptées et utilisables sur le système du Japon tout entier.&lt;/p&gt;
@@ -2299,24 +2237,24 @@ Avec des boutiques à Tokyo comme à Kyoto, nous vous conseillons les magasins M
 &lt;p&gt;Outre la région de Tokyo, la Suica de bienvenue peut être utilisée pour certains systèmes de transport dans les régions de Sendai et Niigata, Hokkaido, Tokai, Japon occidental et Kyushu.&lt;/p&gt;
 &lt;h3&gt;Régions où la Welcome Suica peut être utilisée&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;régions-où-la-welcome-suica-peut-être-utilisée&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#r%c3%a9gions-o%c3%b9-la-welcome-suica-peut-%c3%aatre-utilis%c3%a9e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Le Welcome Suica peut également être utilisé sur d&amp;rsquo;autres systèmes de transport à carte à puce !&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/suica-usage.jpg&#34; alt=&#34;suica-usage.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/suica-usage.jpg&#34; alt=&#34;suica-usage.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Zone de validité en jaune.&lt;/p&gt;
 &lt;p&gt;Validité des cartes en jaune.&lt;/p&gt;
 &lt;h2&gt;Utilisation de votre carte Welcome Suica - E-money&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;utilisation-de-votre-carte-welcome-suica---e-money&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#utilisation-de-votre-carte-welcome-suica---e-money&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;La Welcome Suica peut être utilisée non seulement pour le transport, mais aussi pour le shopping.&lt;/p&gt;
 &lt;p&gt;Vous pouvez utiliser votre Suica de bienvenue pour faire des achats à bord des trains et dans les distributeurs automatiques, pour louer des casiers à monnaie et pour dépenser dans les magasins de proximité et les restaurants.&lt;/p&gt;
 &lt;p&gt;La Welcome Suica peut être utilisée partout où les logos ci-dessous sont affichés.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ic-card.jpg&#34; alt=&#34;ic-card.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cocolotravel.com/images/ic-card.jpg&#34; alt=&#34;ic-card.jpg&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Takayama</title>
-      <link>http://localhost:1313/fr/docs/cities/takayama/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/takayama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/takayama/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/takayama/</guid>
       <description>
         
         
@@ -2356,14 +2294,14 @@ Avec des boutiques à Tokyo comme à Kyoto, nous vous conseillons les magasins M
     
     <item>
       <title>Teshima</title>
-      <link>http://localhost:1313/fr/docs/cities/teshima/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/teshima/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/teshima/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/teshima/</guid>
       <description>
         
         
-        &lt;p&gt;Teshima est une île située dans la mer intérieure du Japon, entre les îles &lt;a href=&#34;http://localhost:1313/fr/home/villes/naoshima&#34; &gt;Naoshima&lt;/a&gt; et Shōdoshima, et fait partie de la préfecture de Kagawa.&lt;/p&gt;
+        &lt;p&gt;Teshima est une île située dans la mer intérieure du Japon, entre les îles &lt;a href=&#34;https://cocolotravel.com/fr/home/villes/naoshima&#34; &gt;Naoshima&lt;/a&gt; et Shōdoshima, et fait partie de la préfecture de Kagawa.&lt;/p&gt;
 &lt;p&gt;Elle est réputée pour son musée de l&amp;rsquo;art.&lt;/p&gt;
 &lt;h2&gt;Restaurants&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;restaurants&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#restaurants&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/d/u/0/edit?mid=1aIoiKY0PjbiB5-P-VvhIc4yOxQiW5wk&amp;amp;usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consulter la carte de nos conseils de restaurants&lt;/a&gt;&lt;/p&gt;
@@ -2424,10 +2362,10 @@ Frais d&amp;rsquo;inscription* : 5000 JPY
     
     <item>
       <title>Tokyo</title>
-      <link>http://localhost:1313/fr/docs/cities/tokyo/</link>
+      <link>https://cocolotravel.com/fr/docs/cities/tokyo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/docs/cities/tokyo/</guid>
+      <guid>https://cocolotravel.com/fr/docs/cities/tokyo/</guid>
       <description>
         
         
