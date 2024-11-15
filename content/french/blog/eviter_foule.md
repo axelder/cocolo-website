@@ -1,5 +1,10 @@
 ---
 title: Comment éviter la foule lors de votre voyage au Japon
+date: 2020-01-04
+authors:
+  - name: Fanny
+    link: 
+    image: /images/fanny.png
 cover: 
     image: /images/kyoto-18small.jpg
     alt: japan culture

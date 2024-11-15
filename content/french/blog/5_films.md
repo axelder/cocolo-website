@@ -1,12 +1,10 @@
 ---
 title: 5 films à regarder pour mieux comprendre la culture japonaise
+date: 2024-01-01
 authors:
-  - name: imfing
-    link: https://github.com/imfing
-    image: https://github.com/imfing.png
-  - name: Octocat
-    link: https://github.com/octocat
-    image: https://github.com/octocat.png
+  - name: Fanny
+    link: 
+    image: /images/fanny.png
 cover: 
     image: /images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
     alt: japan culture

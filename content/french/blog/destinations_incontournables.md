@@ -1,5 +1,10 @@
 ---
 title: 10 Destinations incontournables à visiter lors de votre voyage au Japon
+date: 2024-01-03
+authors:
+  - name: Fanny
+    link: 
+    image: /images/fanny.png
 cover: 
     image: /images/kanazawa-15small.jpg
     alt: japan culture

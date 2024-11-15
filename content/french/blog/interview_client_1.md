@@ -1,5 +1,10 @@
 ---
 title: Interview d'un voyageur solitaire au Japon
+date: 2020-01-05
+authors:
+  - name: Fanny
+    link: 
+    image: /images/fanny.png
 cover: 
     image: /images/ryokan-6.smalljpg.jpg
     alt: japan culture

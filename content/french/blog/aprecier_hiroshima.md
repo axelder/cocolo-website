@@ -1,10 +1,10 @@
 ---
 title: Top 5 des raisons pour lesquelles vous allez aimer visiter Hiroshima
-date: 2020-01-01
+date: 2024-01-01
 authors:
   - name: Fanny
-    link: https://github.com/imfing
-    image: https://github.com/imfing.png
+    link: 
+    image: /images/fanny.png
 tags:
   - Markdown
   - Example

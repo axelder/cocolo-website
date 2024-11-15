@@ -23,6 +23,11 @@ menu:
     - name: Search
       params:
         type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/axelder/cocolo-website"
+      params:
+        icon: github
 
 params:
   navbar:
@@ -38,6 +43,9 @@ params:
     # light | dark | system
     default: light 
     displayToggle: false
+  editURL:
+    enable: true
+    base: "https://github.com/axelder/cocolo-website/edit/main"
 
 defaultcontentlanguage: en
 languages:  
