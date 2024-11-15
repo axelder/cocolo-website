@@ -1,7 +1,7 @@
 ---
 title: 5 erreurs que vous faites dans un onsen et qui sont malpolies
 cover: 
-    image: /images/transport-gros-bagage-shinkansen.jpg
+    image: /images/ryokan-6.smalljpg.jpg
     alt: japan culture
     relative: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Comment éviter la foule lors de votre voyage au Japon
 cover: 
-    image: /images/osakacastlesmall.jpg
+    image: /images/kyoto-18small.jpg
     alt: japan culture
     relative: true
 ---

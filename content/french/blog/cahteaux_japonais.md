@@ -1,8 +1,8 @@
 ---
 title: Les châteaux japonais
 cover: 
-    image: /images/plum-1.jpg
-    alt: japan culture
+    image: /images/himejicastlesmall.jpg
+    alt: chateau japonais
     relative: true
 ---
 

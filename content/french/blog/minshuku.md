@@ -1,8 +1,8 @@
 ---
 title: Le minshuku
 cover: 
-    image: /images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
-    alt: japan culture
+    image: /images/minshuku-1small.jpg
+    alt: Minshuku
     relative: true
 ---
 

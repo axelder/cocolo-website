@@ -1,5 +1,9 @@
 ---
 title: Découvrir les Ryokans Japonais
+cover: 
+    image: /images/ryokan-6.smalljpg.jpg
+    alt: japan culture
+    relative: true
 ---
 
 Si vous souhaitez vivre une expérience authentique lors de votre voyage au Japon, séjourner dans un ryokan, une auberge traditionnelle, est une étape obligatoire.

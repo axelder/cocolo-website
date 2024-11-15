@@ -10,7 +10,7 @@ tags:
   - Example
   - Guide
 cover: 
-    image: /images/hiroshimachateausmall.jpg
+    image: /images/hiroshima-02small.jpg
     alt: Hiroshima
     relative: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 10 Destinations incontournables à visiter lors de votre voyage au Japon
 cover: 
-    image: /images/nakasendo-1small.jpg
+    image: /images/kanazawa-15small.jpg
     alt: japan culture
     relative: true
 ---
